@@ -1,0 +1,19 @@
+Ebola CARE 2
+
+Short description
+Predicts and visualizes mortality risk associated with clinical signs and symptoms in Ebola patients
+
+Full description
+
+Ebola CARE (Computational Assignment of Risk Estimates) is a proof-of-concept app designed to illustrate how prognosis prediction models could inform clinical care. It shows World Health Organization's treatment guidelines for Ebola patients, based on predicted mortality risk.
+        
+The app incorporates prognosis predictors for Ebola Virus Disease (EVD), trained on clinical data collected in 5 Emergency Treatment Units in Liberia and Sierra Leone, installed and operated by International Medical Corps during the 2014-14 outbreak. It offers to visualization options, one displaying the contributors of each predictor in the model to the overall risk, and the the other showing the most significant predictors and the treatment options available for each clinical sign/symptom. These options were compiled from the "Clinical management of patients with  viral haemorragic fever" and "Manual for the care and management of patients in Ebola Care Units/Community Care Centers" guides from WHO.
+
+Because it is a research prototype, this app should NOT be used to make treatment decisions on actual patients.
+
+URL
+http://sabetilab.org/
+
+Google Play Developer account
+Username: googleplay@broadinstitute.org
+PWD: Br0@dD3v
